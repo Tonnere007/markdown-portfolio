@@ -1,0 +1,3 @@
+* games
+* films
+* songs
